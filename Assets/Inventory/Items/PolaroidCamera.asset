@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4af2e7662c8bc34685898907cb9d6ba, type: 3}
+  m_Name: PolaroidCamera
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: Camera
+  value: 0
+  icon: {fileID: 21300000, guid: d7dacd6ba9c7c604091e884156f3dca3, type: 3}
+  prefab: {fileID: 1379473598700595842, guid: 805f072032659fa4f9abf8b89f6e8d79, type: 3}
+  prefabTag: Polaroid
